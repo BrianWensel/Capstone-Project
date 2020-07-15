@@ -1,0 +1,5 @@
+Material,Material Text,Node,Available Supply,Projected_Shortage_Qty,Need_in_days,daily_shortage_cost
+1,Example Material,1020,0,50,3,1000
+1,Example Material,1100,70,0,0,1000
+1,Example Material,1415,50,0,0,1000
+1,Example Material,1645,0,0,0,1000
